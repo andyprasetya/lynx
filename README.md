@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" src="./adv/lynx.svg"/>
+  <img width="196" src="./adv/lynx.svg"/>
 </p>
 
 # Lynx
