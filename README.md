@@ -3,4 +3,4 @@
 </p>
 
 # Lynx
-Lynx is an OpenLayers-based webmap, with geospatial vector CRUD capabilities
+Lynx is a simple OpenLayers-based webmap, with geospatial vector data CRUD capabilities
