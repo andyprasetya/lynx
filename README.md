@@ -3,4 +3,4 @@
 </p>
 
 # Lynx
-Lynx is a simple OpenLayers- and TailwindCSS-based webmap, with geospatial vector data CRUD capabilities. By default, Lynx uses IndexedDB, but you can change the CRUD-APIs to your preferred backends.
+Lynx is a simple webmap (built with OpenLayers, Vite and TailwindCSS), with geospatial vector data CRUD capabilities. By default, Lynx uses IndexedDB, but you can change the CRUD-APIs to your preferred backends.
